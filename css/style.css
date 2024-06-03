@@ -1,0 +1,33 @@
+.barra-sopra{
+    height: 19vh;
+    background-image: url("../img/pattern.png");
+    background-color: rgba(47, 147, 241, 0.633);
+}
+
+h1{
+    font-size: 70px;
+    margin-top: 20px;
+}
+
+.testo-grigio{
+    color: gray;
+}
+
+.testo-celeste{
+    color: #0d95da;
+}
+
+.testo-ingrandito{
+    font-size: 35px;
+}
+
+section > img{
+    margin-top: 30px;
+    margin-bottom: 5px;
+}
+
+
+
+*{
+    margin: 0;
+}

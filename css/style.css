@@ -43,18 +43,15 @@ section > img{
     background-color: #0d95da;
     color: white;
     height: 2vh;
-    border: 1px solid black;
 }
 
 .riga-celeste{
     background-color: #a6defa;
     height: 6vh;
-    border: 1px solid black;
 }
 
 .riga-bianca{
     height: 6vh;
-    border: 1px solid black;
 }
 
 .cella{
@@ -77,13 +74,6 @@ section > img{
 main{
     margin: 5px;
 }
-
-/* .sezione4{
-    height: 70vh;
-} */
-
-
-
 
 
 *{

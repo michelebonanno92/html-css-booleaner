@@ -1,14 +1,12 @@
 .barra-sopra{
-    height: 19vh;
     background-image: url("../img/pattern.png");
     background-color: rgba(47, 147, 241, 0.633);
-    position: relative;
+    background-size: 50vh;
+   
 }
 
 header > img{
-    width: 400px;
-    position: absolute;
-    bottom: 0;
+    width: 50vh;
 }
 
 h1{
@@ -28,48 +26,11 @@ h1{
     font-size: 35px;
 }
 
-section > img{
-    margin-top: 30px;
-    margin-bottom: 5px;
-    width: 48%;
-    height: 500px;
-}
-
 .sfondo-giallo{
     background-color: yellow;
 }
 
-.riga-azzurra{
-    background-color: #0d95da;
-    color: white;
-    height: 2vh;
-}
 
-.riga-celeste{
-    background-color: #a6defa;
-    height: 6vh;
-}
-
-.riga-bianca{
-    height: 6vh;
-}
-
-.cella{
-    width: calc(100% / 3 )
-    
-}
-
-.sinistra{
-    float: left;
-}
-
-.centro{
-    float: left;
-}
-
-.destra{
-    float: left;
-}
 
 main{
     margin: 5px;

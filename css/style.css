@@ -42,3 +42,26 @@ main{
     box-sizing: border-box;
 
 }
+
+thead{
+    background-color:rgb(32, 169, 229);
+    color: white;
+}
+
+
+.odd-row{
+    background-color: rgb(177, 229, 242);
+}
+
+.even-row{
+    background-color: white;
+}
+
+th{
+    width: 23%;
+    text-align: left;
+}
+
+.main-text{
+    width: 50%;
+}
